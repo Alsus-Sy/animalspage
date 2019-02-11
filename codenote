@@ -1,0 +1,12 @@
+
+#Code Refactoring
+
+Don't Repeat Yourself (DRY) - This is what we want to learn.
+We Enjoy Typing (WET) - This is what we want to avoid.
+
+
+1. Readability
+2. Modulaarity
+  - allows you to drill down on a specific section very very easily and figure out what the problems are.
+3. Efficiency
+4. Length
